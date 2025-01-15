@@ -1,6 +1,6 @@
-# Gravy Analytics APK Vulnerability Checker (2025)
+# Gravy Analytics APK Vulnerability Checker (2025) - Linux
 
-Bu Python betiği, **Gravy Analytics** platformu için Android cihazlarda yüklü APK'ları kontrol eder ve bu uygulamaların güvenlik açıklarını tespit eder. Uygulama, cihazla bağlantı kurarak yüklü paketlerin listesini alır ve ardından bir liste ile karşılaştırarak güvenlik açığı taşıyan APK'ları ekrana yazdırır. Bu araç, Gravy Analytics tarafından geliştirilen uygulama güvenliği analizlerinin bir parçası olarak kullanılabilir.
+Bu Python betiği, **Gravy Analytics** platformu için Android cihazlarda yüklü APK'ları kontrol eder ve bu uygulamaların güvenlik açıklarını tespit eder. Cihazınızdaki APK'lar, çevrimiçi bir güvenlik açığı listesiyle karşılaştırılarak zafiyetli olanlar ekrana yazdırılır. Bu araç, Linux makinenizde çalışan Android cihaz güvenlik kontrolü için kullanılabilir.
 
 ## Özellikler
 
