@@ -2,6 +2,17 @@
 
 Bu Python betiği, **Gravy Analytics** platformu için Android cihazlarda yüklü APK'ları kontrol eder ve bu uygulamaların güvenlik açıklarını tespit eder. Cihazınızdaki APK'lar, çevrimiçi bir güvenlik açığı listesiyle karşılaştırılarak zafiyetli olanlar ekrana yazdırılır. Bu araç, Linux makinenizde çalışan Android cihaz güvenlik kontrolü için kullanılabilir.
 
+
+
+### README Açıklamaları:
+1. **Geliştirici Seçenekleri ve USB Hata Ayıklama**: Android cihazınızda yapılması gereken ayarları detaylı bir şekilde açıklanmıştır.
+2. **ADB Kurulumu ve Cihaz Bağlantısı**: Linux üzerinde ADB kurulumunu ve cihazın nasıl bağlanacağı anlatılmıştır.
+3. **Betiğin Çalıştırılması**: Betiği çalıştırma süreci, kullanıcılara net bir şekilde açıklanmıştır.
+4. **Çıktı Örnekleri ve Güvenlik Açığı Kaynağı**: Çıktı örnekleri verilmiş ve APK'lar için güvenlik açığı kaynağına yönlendirme yapılmıştır.
+
+Bu README dosyası, **Linux makinesi üzerinde çalışan** bir araç olan Gravy Analytics için geliştirilmiş APK güvenlik açığı kontrol aracının kullanımını açıklayan detaylı bir rehber sunmaktadır.
+
+
 ## Özellikler
 
 - **ADB Kontrolü**: Betik, Android Debug Bridge (ADB) aracının sisteminizde yüklü olup olmadığını kontrol eder. Eğer ADB yüklü değilse, otomatik olarak yükler.
